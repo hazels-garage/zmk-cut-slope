@@ -1,0 +1,10 @@
+file_format: "1"
+id: cut_slope
+name: Cut Slope
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+url: https://shop.hazel.cc
